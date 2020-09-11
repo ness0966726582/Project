@@ -1,5 +1,0 @@
-pyinstaller -F .\FAF-Upload.py
-pyinstaller -F .\JO-Upload.py
-pyinstaller -F .\IR-Upload.py
-pyinstaller -F .\SOF-Upload.py
-pyinstaller -F .\Borrow-Upload.py
