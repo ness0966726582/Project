@@ -1,5 +1,5 @@
 #--------固定不變--------#
-dirPath = r"\\10.231.199.10\Department\InformationTechnology\Auditing\13. SOF\NEW"   #照片存放路徑 
+dirPath = r"\\10.231.250.70\Department\InformationTechnology\Auditing\13. SOF\NEW"   #照片存放路徑 
 Use_bit=20                    #取檔案名位數目的為移除副檔名
 Output1="old.txt"            #轉存的文件名
 Output2="new.txt"
